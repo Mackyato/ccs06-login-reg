@@ -1,0 +1,17 @@
+{
+    "name": "Mackyato/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Anthony Soberano",
+            "email": "soberano.markanthony@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
